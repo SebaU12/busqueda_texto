@@ -1,0 +1,10 @@
+1234567890=()[]{};+-*/#abcdefghijklmnopqrstuvwxyz
+3
+return0;
+#ifdef
+while(true)
+4
+#definen5
+do{x=10}while(true);
+#ifndef
+return;
